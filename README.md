@@ -1,6 +1,6 @@
 # Quick Start
 
-TODO: Description
+Ecosystem Plugin for [Mode](https://www.mode.network/) support in Ape.
 
 ## Dependencies
 
@@ -8,27 +8,23 @@ TODO: Description
 
 ## Installation
 
-### via `pip`
-
-You can install the latest release via [`pip`](https://pypi.org/project/pip/):
-
-```bash
-pip install <PYPI_NAME>
-```
-
 ### via `setuptools`
 
 You can clone the repository and use [`setuptools`](https://github.com/pypa/setuptools) for the most up-to-date version:
 
 ```bash
-git clone https://github.com/ApeWorX/<PYPI_NAME>.git
-cd <PYPI_NAME>
+git clone https://github.com/NikitaPirate/ape-mode.git
+cd ape-mode
 python3 setup.py install
 ```
 
 ## Quick Usage
 
-TODO: Describe library overview in code
+Installing this plugin adds support for the Mode ecosystem:
+
+```
+ape console --network mode:sepolia
+```
 
 ## Development
 
