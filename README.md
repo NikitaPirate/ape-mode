@@ -1,3 +1,7 @@
+# ⚠️ Disclaimer
+
+I'm not affiliated with [ApeWorX](https://github.com/ApeWorX) and don't understand what I'm doing or how safe it is to use this code.
+
 # Quick Start
 
 Ecosystem Plugin for [Mode](https://www.mode.network/) support in Ape.
